@@ -18,13 +18,13 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/VdCxJrJ' title='Video Walkthrough- ToDo App' />
+http://imgur.com/VdCxJrJ
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-. I don't understand what each code means
+
 
 ## License
 
